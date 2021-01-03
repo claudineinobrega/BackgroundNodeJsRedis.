@@ -1,4 +1,6 @@
-Background utilizando in Node.js with Redis.
+# Background utilizando in Node.js with Redis.
+
+##  Projeto de “Cadastro de usuário e envio de e-mail de confirmação de cadastro como tarefa em background utilizando Node.js e Redis”.
 
 🚀 Technology
 Express — A web framework for Node.js
@@ -25,5 +27,3 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 📝 License
 This project is under the MIT license. See the LICENSE for more information.
-
-Made with by Alessandro Muniz 👋
